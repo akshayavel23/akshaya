@@ -1,0 +1,16 @@
+header {
+  padding: 50px;
+  text-align: center;
+  background: mediumseagreen;
+  color: white;
+  font-size: 30px;
+}
+p{
+	padding:50px;
+	background:mediumseagreen;
+	font-size:30px;
+}
+a{
+	background:pink;
+	font-size:25px;
+}
